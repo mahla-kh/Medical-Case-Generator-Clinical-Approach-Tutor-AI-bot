@@ -26,6 +26,7 @@ No verification or filtering of information is implemented; content is purely ed
 
 ## 🌟 How to Use:
 go to : https://udify.app/chat/IiV8e0pCK16or3E0
+
 Enter the disease name and its related specialty in the chat (e.g., “Asthma\nPulmonology”).
 
 The AI generates a complete hypothetical clinical case and clinical approach.
